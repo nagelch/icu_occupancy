@@ -1,5 +1,4 @@
 # icu_occupancy
-MA_thesis
 
 ## ./scripts
 ./scripts contains the R code for this project
